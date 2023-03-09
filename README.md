@@ -1,6 +1,6 @@
 # Tugas-2-mekanik-game-Fajrul
 
-- Ruang(space) => secara matematis
+- Ruang(space) 
 	- Ruang game bersifat kontinu (posisi karakter dapat berada dimana saja selama dapat dijangkau oleh karakter)
 	- Dimensi game berupa 3 dimensi
 	- Lokasi-lokasi didalam game saling terhubung selama masih dalam lingkup 1 map
@@ -37,7 +37,7 @@
     - ekonimi yang ditentukan dari round sebelumnya
     - ![image](https://user-images.githubusercontent.com/38638257/223932618-8f6ece96-1ed7-407f-82d0-b0481becd2b7.png)
 
-- Skill(keterampilan) => keterampilan pemain
+- Skill(keterampilan)
 	- AIM
 	- Mengelola informasi
 	- Mind reader
