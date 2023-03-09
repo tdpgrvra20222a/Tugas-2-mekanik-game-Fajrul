@@ -32,16 +32,15 @@
 		- Mengeliminasi counter teroris yang menjaga site dengan mengandalkan jumlah
 		- Menjaga site dengan mengambil posisi yang susah ditebak
 - Rule(aturan)
-		- Karakter bergerak sebanyak 250 unit perdetik jika menggunakan pisau
-		- Kecepatan minimal sebanyak 195 unit perdetik
-    - ekonimi yang ditentukan dari round sebelumnya
-    - ![image](https://user-images.githubusercontent.com/38638257/223932618-8f6ece96-1ed7-407f-82d0-b0481becd2b7.png)
+	- Karakter bergerak sebanyak 250 unit perdetik jika menggunakan pisau
+	- Kecepatan minimal sebanyak 195 unit perdetik
+	- ekonimi yang ditentukan dari round sebelumnya
+	- ![image](https://user-images.githubusercontent.com/38638257/223932618-8f6ece96-1ed7-407f-82d0-b0481becd2b7.png)
 
 - Skill(keterampilan)
-	- AIM
+	- AIM(kemampuan kombinasi menggunakan keyboard dan mouse)
 	- Mengelola informasi
-	- Mind reader
+	- Mind reader (Strategi yang dibuat untuk memenangkan round)
 - Change(peluang) 
-	- Strategi yang dibuat untuk memenangkan round
-	- Memenangkan adu tembak dengan musuh
-  - Recoil ketika menembak
+	- kordinat respown 
+	- Recoil ketika menembak
